@@ -7,7 +7,7 @@ NVM23 - Original V23 GC-Titan Ridge Firmware
 
 NVM43 - Original V43 GC-Titan Ridge Firmware
 
-DSM2 - Modified MacOS Titan Ridge Firmware bt DSM2.Hackintosh
+DSM2 - Modified MacOS Titan Ridge Firmware by DSM2.Hackintosh
 
 
 
