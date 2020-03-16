@@ -9,7 +9,7 @@ NVM43 - Original V43 GC-Titan Ridge Firmware
 
 DSM2 - Modified MacOS Titan Ridge Firmware by DSM2.Hackintosh
 
-
+Elias64FR+CaseySJ - Modified MacOS Titan Ridge Firmware by Elias64FR and CaseySJ
 
 
 Flashing Guide:
